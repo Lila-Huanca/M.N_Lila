@@ -47,7 +47,17 @@ Este trabajo de investigación se enfoca en analizar la distribución geográfic
 *Nota: La imagen representa el ciberfraude al comercio electrico.*
 
 ## ESTRATEGIA DE SOLUCIÓN
-![](https://example.com/estrategia.jpg)
+
+Para abordar el problema del fraude en línea, se propone una estrategia multifacética que incluye las siguientes acciones clave:
+
+1. **Implementación de Modelos de Machine Learning**: 
+   Desarrollar e integrar modelos de aprendizaje automático que analicen patrones en transacciones y comportamientos de los usuarios. Estos modelos pueden identificar anomalías en tiempo real, lo que permite la detección temprana de actividades sospechosas.
+
+2. **Capacitación y Concienciación del Usuario**: 
+   Llevar a cabo campañas educativas para informar a los usuarios sobre los riesgos del fraude en línea, las tácticas utilizadas por los estafadores y las mejores prácticas para proteger su información personal y financiera.
+
+3. **Tecnologías de Detección de Phishing**: 
+   Desarrollar y promover herramientas de software que detecten y bloqueen intentos de phishing. Estas herramientas pueden incluir extensiones de navegador que alerten a los usuarios sobre sitios web fraudulentos y correos electrónicos sospechosos
 
 ## BIBLIOGRAFÍA
 
