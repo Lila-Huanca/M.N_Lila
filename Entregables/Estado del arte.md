@@ -56,6 +56,6 @@ Este trabajo de investigación se enfoca en analizar la distribución geográfic
 * (2) Quintero Acuña, L. K. (2023). Aplicación de Machine Learning a un modelo tradicional de Prevención y detección de fraude en entidad financiera proyectado periodos trimestrales. https://ciencia.lasalle.edu.co/maest_analitica_inteligencia_negocios/7/
 
 * (3) Jaramillo Basantes, F. P. (2023). Modelo de Machine Learning para mitigar los fraudes informáticos de phishing basados en la ingeniería social en la Facultad de Ingeniería en Sistemas Electrónica e Industrial (Bachelor's thesis, Universidad Técnica de Ambato. Facultad de Ingeniería en Sistemas, Electrónica e Industrial. Carrera de Tecnologías de la Información).
-                                          https://repositorio.uta.edu.ec:8443/handle/123456789/38430
+https://repositorio.uta.edu.ec:8443/handle/123456789/38430
 
 * (4) Domínguez Arteaga, R. A., & Vázquez, R. V. (2022). Análisis espacial del ciberfraude al comercio electrónico: consideraciones en agenda política Tamaulipeca. Podium, (41), 21-40. http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&pid=S2588-09692022000100021
